@@ -16,7 +16,7 @@ Tools Used
 In this stage, the dataset was cleaned to improve accuracy and consistency by:
 •	Removing duplicates 
 •	Handling missing values (NULLs) 
-•	Standardizing data types (UnitPrice and TotalPrice converted to DECIMAL) 
+•	Standardizing data types
 •	Verifying data consistency 
 
 Week 2 – Exploratory Data Analysis (EDA)
